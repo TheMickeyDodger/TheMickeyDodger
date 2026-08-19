@@ -2,7 +2,7 @@
   <img src="./mickeydodger-banner.png" width="100%" alt="MickeyDodger">
 </p>
 I work on a weird mix of things. Embedded systems. Computer vision. Robotics. World models. Quantum computing. Multi-agent software engineering. The list goes on.
-
+</p>
 On paper, that sounds all over the place, but it really isn’t.
 
 Most of the stuff I like working on has the same problem underneath it, and that is the software has to interact with something messy and real, and being *mostly right* isn’t good enough.
