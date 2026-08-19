@@ -2,6 +2,7 @@
   <img src="./mickeydodger-banner.png" width="100%" alt="MickeyDodger">
 </p>
 I work on a weird mix of things.
+
 Embedded systems. Computer vision. Robotics. World models. Quantum computing. Multi-agent software engineering. The list goes on.
 
 On paper, that sounds all over the place, but it really isn’t.
